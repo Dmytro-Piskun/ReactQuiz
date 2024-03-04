@@ -1,6 +1,6 @@
 {
     "quizTitle": "Tableau Quiz",
-    "timePerQuestion": 5,
+    "timePerQuestion": 7,
     "quizData": [
         {
             "title": "As of Tableau 2018.3, Tableau is only available on a Windows Operating System?",
