@@ -1,0 +1,34 @@
+.quiz-start-container{
+    background-color: white;
+    border-radius: 15px;
+    padding: 15px;
+    text-align: center;
+}
+.quiz-start-container h1{
+    color: rgb(180, 96, 96);
+    font-weight: 700;
+    font-size: 20px;
+}
+.quiz-start-container h2{
+    color: rgb(182, 133, 133);
+    font-weight: 700;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.quiz-start-container h2 strong{
+    color: rgb(112, 103, 103);
+}
+.quiz-start-container button{
+background-color: rgb(228, 203, 203);
+border: none;
+border-radius: 7px;
+padding: 10px 20px;
+margin-top: 10px;
+font-family: "Montserrat", sans-serif;
+font-weight: 700;
+color: rgb(83, 69, 69);
+font-size: 15px;
+}
+.quiz-start-container button:hover{
+    background-color: rgb(190, 170, 170);
+}

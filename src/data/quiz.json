@@ -1,0 +1,380 @@
+{
+    "quizTitle": "Tableau Quiz",
+    "timePerQuestion": 5,
+    "quizData": [
+        {
+            "title": "As of Tableau 2018.3, Tableau is only available on a Windows Operating System?",
+            "options": [
+                {
+                    "optionTitle": "False",
+                    "isCorrect": true
+                },
+                {
+                    "optionTitle": "True",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "title": "Which of the following is NOT a Tableau Desktop application?",
+            "options": [
+                {
+                    "optionTitle": "Tableau Express",
+                    "isCorrect": true
+                },
+                {
+                    "optionTitle": "Tableau Public",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "Tableau Reader",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "Tableau Desktop",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "title": "Which of the following files types contains a Tableau Workbook along with local data?",
+            "options": [
+                {
+                    "optionTitle": ".twbx",
+                    "isCorrect": true
+                },
+                {
+                    "optionTitle": ".hyper",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": ".twb",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": ".tde",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "title": "Which of the following is not a Tableau file type?",
+            "options": [
+                {
+                    "optionTitle": ".tdx",
+                    "isCorrect": true
+                },
+                {
+                    "optionTitle": ".tds",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": ".tbm",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": ".tdsx",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "title": "A Tableau Workbook can contain multiple data sources from different source systems?",
+            "options": [
+                {
+                    "optionTitle": "True",
+                    "isCorrect": true
+                },
+                {
+                    "optionTitle": "False",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "title": "In Tableau, Data Blending is where you?",
+            "options": [
+                {
+                    "optionTitle": "Merge data from two (or more) data sources within a Tableau Worksheet",
+                    "isCorrect": true
+                },
+                {
+                    "optionTitle": "Combine data from various systems within a Data Source",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "Cache data from various source systems into a .hyper file",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "Blend multiple worksheets together",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "title": "In the Data Pane, what sections do you have?",
+            "options": [
+                {
+                    "optionTitle": "Dimensions, Measures, Sets and Parameters",
+                    "isCorrect": true
+                },
+                {
+                    "optionTitle": "Dimensions, Facts, Sets and Parameters",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "Dimensions, Calculations, Sets and Parameters",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "Dimensions, Measures, Groups, Sets and Parameters",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "title": "Which of the following is NOT a Tableau Field data type?",
+            "options": [
+                {
+                    "optionTitle": "Float",
+                    "isCorrect": true
+                },
+                {
+                    "optionTitle": "Boolean",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "String",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "Number",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "title": "When creating Hierarchies in Tableau, you are limited to three levels of hierarchy",
+            "options": [
+                {
+                    "optionTitle": "False",
+                    "isCorrect": true
+                },
+                {
+                    "optionTitle": "True",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "title": "In the Data Pane, you can choose \"Group by Folders\" or \"Group Data Source Table\"",
+            "options": [
+                {
+                    "optionTitle": "True",
+                    "isCorrect": true
+                },
+                {
+                    "optionTitle": "False",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "title": "In the Data Pane, Discrete values are which color?",
+            "options": [
+                {
+                    "optionTitle": "Blue",
+                    "isCorrect": true
+                },
+                {
+                    "optionTitle": "Red",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "Green",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "Orange",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "title": "Which of the following Data Pane items cannot be dragged onto the Filters Shelf",
+            "options": [
+                {
+                    "optionTitle": "Parameters",
+                    "isCorrect": true
+                },
+                {
+                    "optionTitle": "Measures",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "Sets",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "Dimensions",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "title": "Which of the descriptions below describes a Tableau Story",
+            "options": [
+                {
+                    "optionTitle": "A contains a sequence of worksheets or dashboards that work together to convey information",
+                    "isCorrect": true
+                },
+                {
+                    "optionTitle": "A collection of views from multiple worksheets",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "A single view along with shelves, cards, legends, and the Data and Analytics panes in its side bar",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "title": "You can add additional Color palettes to Tableau",
+            "options": [
+                {
+                    "optionTitle": "True",
+                    "isCorrect": true
+                },
+                {
+                    "optionTitle": "False",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "title": "When using data source Fields in Calculated Fields, the Square brackets are optional",
+            "options": [
+                {
+                    "optionTitle": "True",
+                    "isCorrect": true
+                },
+                {
+                    "optionTitle": "False",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "title": "If you want to replace one Field with another without breaking your worksheet",
+            "options": [
+                {
+                    "optionTitle": "Use the Replace References feature",
+                    "isCorrect": true
+                },
+                {
+                    "optionTitle": "Use the Find and Replace feature",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "Use the Search and Replace feature",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "Use the Replace Object feature",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "title": "What is the maximum number of Columns in a Table",
+            "options": [
+                {
+                    "optionTitle": "16 columns",
+                    "isCorrect": true
+                },
+                {
+                    "optionTitle": "14 columns",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "12 columns",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "18 columns",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "10 columns",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "title": "Which of the following is NOT a Mark Type",
+            "options": [
+                {
+                    "optionTitle": "Doughnut",
+                    "isCorrect": true
+                },
+                {
+                    "optionTitle": "Line",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "Square",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "Density",
+                    "isCorrect": false
+                }
+                ,
+                {
+                    "optionTitle": "Gantt Bar",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "title": "In a Calculated Field, the following will be interpreted as a comment",
+            "options": [
+                {
+                    "optionTitle": "Anything after // will be treated as a comment",
+                    "isCorrect": true
+                },
+                {
+                    "optionTitle": "Anything after ## will be treated as a comment",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "Anything between /** */ will be treated as a comment",
+                    "isCorrect": false
+                },
+                {
+                    "optionTitle": "Anything after -- will be treated as a comment",
+                    "isCorrect": false
+                }
+                ,
+                {
+                    "optionTitle": "Anything between \" \" will be treated as a comment",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "title": "We can extend the functionality of Tableau through Third-Party companies",
+            "options": [
+                {
+                    "optionTitle": "True",
+                    "isCorrect": true
+                },
+                {
+                    "optionTitle": "False",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}

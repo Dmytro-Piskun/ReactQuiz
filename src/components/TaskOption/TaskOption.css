@@ -1,0 +1,9 @@
+.task-option{
+    background-color: white;
+    border-radius: 15px;
+    padding: 15px;
+    text-align: center;
+}
+.task-option:hover{
+    background-color: rgb(250, 248, 248);
+}

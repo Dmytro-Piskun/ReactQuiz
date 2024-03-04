@@ -1,0 +1,15 @@
+.task-result{
+    background-color: white;
+    border-radius: 15px;
+    padding: 15px;
+    text-align: center;
+    margin: 0;
+    
+}
+.task-result h2{
+    font-size: 14px;
+}
+.task-result p{
+    font-size: 13px;
+    font-weight: 600;
+}
