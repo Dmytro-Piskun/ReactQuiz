@@ -7,8 +7,8 @@ function TaskTimer() {
 const [timeElapsed,setTimeElapsed]=useState(QuizCtx.timePerTask*1000);
   useEffect(() => {
     const interval = setInterval(() => {
-setTimeElapsed(prevTimeElapsed=>prevTimeElapsed-50)
-    },50)
+setTimeElapsed(prevTimeElapsed=>prevTimeElapsed-80)
+    },80)
   return () => {
     clearTimeout(interval);
     setTimeElapsed(QuizCtx.timePerTask*1000);
